@@ -1,4 +1,4 @@
-import React from 'react'
+import React    from 'react'
 import { useFetchGifts } from '../hooks/useFetchGifs';
 import { GifGridItem } from './GifGridItem';
 
